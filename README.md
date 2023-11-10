@@ -1,2 +1,2 @@
-# Wordle
- C implementation using ncurses
+    I implemented a romainian version of the Wordle game in C using the ncurses library.It has a graphic interface where the player
+can try to guess one of the words from the list. A menu is also included.
